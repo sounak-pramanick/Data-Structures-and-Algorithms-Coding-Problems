@@ -1,3 +1,4 @@
+// Leetcode 2748
 class Solution {
     public int countBeautifulPairs(int[] nums) {
         int n = nums.length;
