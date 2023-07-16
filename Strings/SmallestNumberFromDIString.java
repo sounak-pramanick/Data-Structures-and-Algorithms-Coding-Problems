@@ -1,4 +1,4 @@
-
+// Leetcode 2375
 class Solution {
     public String smallestNumber(String pattern) {
         // This is the code I implemented by myself, after seeing Lee's explanation
